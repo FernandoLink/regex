@@ -1,0 +1,6 @@
+É necessário entender que na internet, as pessoas podem falar sobre tudo que lhes vier a cabeça.
+É importante entender também que nem todos podem gostar do que você vier a falar, e e isto é especialmente preocupante se você em algum momento necessitar de uma vaga de emprego, e a empresa para o qual você enviou um currículo tiver como como procedimento no setor de RH, buscar na internet por dados como perfis de Facebook, contas de de Twitter e canais no Youtube de seus candidatos. Vejamos como exemplo, o caso do do Rodrigo Baltar;
+Ao publicar um vídeo declarando sua admiração pelo político Jair Bolsonaro e seus filhos, Flávio Bolsonaro e Eduardo Bolsonaro, Baltar alienou não somente uma parte de seus fãs, como como possíveis empregadores que que discordam fundalmentalmente das posições etc etc etc etc
+cara cara vício de linguagem cara cara 
+
+\b(\w+)\s\1 -> word boundary

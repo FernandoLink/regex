@@ -1,0 +1,11 @@
+match this expression
+match this and match this too
+oh, and this
+
+^match - do Início
+ah meu deus
+carros conversíveis
+baby I'm gonna leave you
+
+[^abc] - negação deste grupos
+^[^a-f] - começando no início da linha

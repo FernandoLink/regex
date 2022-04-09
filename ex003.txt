@@ -1,0 +1,10 @@
+Este é um texto de exemplo, neste testo, existem diversos pontos como este. 
+Existem também, além do ".", ao menos um "*" asterisco.
+Asteriscos, quando utilizados em um texto, normalmente conotam uma chamada para um nota de rodapé no texto.
+Nas expressões regulares porém, significam algo completamente diferente de um "*" normal.
+
+Ponto é qualquer caracter nas expressões regulares. Est
+
+caracter de escape -> \
+
+bundle

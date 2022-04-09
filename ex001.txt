@@ -1,0 +1,9 @@
+Ola Mundo
+ola mundo
+oLa MunDo
+OLA MUNDO
+ola MUNDO
+OLA mundo
+
+metacaracteres literais
+[Oo][Ll][Aa] [Mm][Uu][Nn][Dd][Oo]

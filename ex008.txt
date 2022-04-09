@@ -1,0 +1,10 @@
+va
+voa
+vooa
+voooa
+vooooa
+voooooa
+
+
+vo*a = vo{0,}a -> de zero a infinito de um caracter
+vo+a = vo{1,}a -> de um a infinito de um caracter

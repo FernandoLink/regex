@@ -1,0 +1,8 @@
+Você é uma pessoa corajosa! Por outro lado, vocês, que não entendem nada de expressões regulares, não são tão corajosos assim...
+color colour
+
+c\w{6,} -> qual palavra que comece com c e tenha mais que 6 letras.
+? -> caracter anterior pode existir ou não existir.
+
+colou?r
+vocês?

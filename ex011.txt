@@ -1,0 +1,20 @@
+Jennifers:
+Jennifer Garner é uma atriz
+Jennifer Aniston é uma atriz
+Jennifer Love Hewitt é uma atriz
+Jennifer Hudson é uma atriz
+Jennifer Jason Leigh é uma atriz
+Jennifer Lopez é uma atriz
+Jennifer Lawrence é uma atriz
+Jennifer Connelly é uma atriz
+Jennifer Winget é uma atriz
+Jennifer Lien é uma atriz
+Jennifer Coolidge é uma atriz
+Jennifer Taylor é uma atriz
+Jennifer Kirby é uma atriz
+
+Jennifer(?=\sLawrence) -> look ahead
+Jennifer(?!\sLawrence) -> negative look ahead
+
+Jennifer(?=\s)(?!\sLawrence)
+

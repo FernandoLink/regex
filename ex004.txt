@@ -1,0 +1,6 @@
+Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente odio eius adipisci incidunt doloribus distinctio rerum ut ex nisi praesentium delectus obcaecati molestias odit necessitatibus quo natus, blanditiis soluta nam?
+
+. -> quer dizer qualquer caractere
+
+i.i
+i..i

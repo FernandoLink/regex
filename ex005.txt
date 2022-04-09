@@ -1,0 +1,16 @@
+Eu gosto muito do Regex porque ele me possibilita selecionar segmentos de um texto não por um elemento, mas por um padrão de elementos.
+Por exemplo, eu posso buscar pelas palavras que se encontram apenas no início de uma frase ou parágrafo, ou checar se no final do meu parágrafo,
+eu lembrei ou esqueci de colocar o ponto final.
+
+Outra coisa importante: Desde o início do curso nós estamos ignorando metódicamente algo neste site, pois ainda não era a hora de explicar sobre ele.
+Do que eu estou falando? Eu estou falando sobre a barra no início da expressão regular, que não é possível remover aqui no site que estamos fazendo 
+os nosso exercícios, e a barra seguida de G que também não conseguimos remover.
+Estes itens são o que chamamos de Flags de configuração.
+Por meio delas nós determinamos se nossa busca está funcionando de forma global, mesmo quando fazemos múltiplas buscas, 
+se nosso material tem mais de uma linha, que é muito importante nesta aula em específico, etc etc.
+
+^ -> Início de paragráfo
+$ -> Fim de linha
+\w -> todas as letras
+
+[a.e] 

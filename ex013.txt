@@ -1,0 +1,7 @@
+O rato roeu a roupa do rei de roma. A rainha de raiva rasgou o resto. A
+
+(\b\w{1}\b|\b\w{2}\b|\b\w{3}\b|\b\w{4}\b|\b\w{5}\b|\b\w{6}\b) = \b\w+\b
+
+(rato|rei|rainha)
+
+\b\w\b = \b\w{1}\b

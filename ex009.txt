@@ -1,0 +1,25 @@
+<p>Primeiro Parágrafo</p>
+<p>Segundo Parágrafo</p>
+<p>Terceiro Parágrafo</p>
+<p>Teste</p>
+<p></p>
+
+Rato
+Rei
+Rainha
+Queijo
+
+1234
+
+? - encontrou a seleção parte para a próxima se
+
+<p>.*</p>  -> fominha
+<p>.*?</p> -> preguiçoso
+
+<p>(Primeiro|Segundo|Terceiro).*</p> - metacaracter lógico OU
+
+Rato|Rei
+
+\W - negação de letra
+\D - negação de dígito
+\S - negação de space

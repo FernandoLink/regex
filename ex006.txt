@@ -1,0 +1,8 @@
+carro carroceiro capoteiro castro cadastro carra carroceira castra cadastra
+
+\d{3}5 - três dígitos que terminam com cinco
+
+{} -> quantificador
+
+c\w{3,7}o
+c\w{3}o
